@@ -1,6 +1,6 @@
 ---
 title: "**Adult Dataset Prediction**"
-author: "_Alexandru Damian, Nickolai Petersen_"
+author: "_Alexandru Damian_"
 date: "12/1/2021"
 output: pdf_document
 ---
